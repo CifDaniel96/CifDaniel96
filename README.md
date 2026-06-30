@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Ciferni</h1>
 
-<h3 align="center">Fullstack Developer | Web Developer | Problem Solver</h3>
+<h3 align="center">Fullstack Developer | Learning Cybersecurity, Python & AI Agents | Building modern and scalable web applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CifDaniel96&label=Profile%20views&color=0e75b6&style=flat" alt="CifDaniel96" />
