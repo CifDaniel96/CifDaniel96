@@ -66,6 +66,9 @@ I’m constantly learning, improving my skills and turning ideas into real proje
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CifDaniel96&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CifDaniel96&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🌱 Currently Learning
