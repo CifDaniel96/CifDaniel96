@@ -18,9 +18,11 @@
 
 I'm a **Fullstack Developer** passionate about building modern, responsive and scalable web applications.
 
-I enjoy working on both sides of development: creating clean and user-friendly interfaces on the frontend, and building solid, efficient backend logic behind the scenes.
+I enjoy working across the entire stack, from clean frontend interfaces to solid backend logic.
 
-I’m constantly learning, improving my skills and turning ideas into real projects.
+Currently, I'm expanding my skills in **Cybersecurity**, **Python**, and **AI Agents**, with the goal of building smarter, safer and more automated digital solutions.
+
+I'm constantly learning, improving my code quality and turning ideas into real projects.
 
 ---
 
@@ -49,6 +51,14 @@ I’m constantly learning, improving my skills and turning ideas into real proje
 
 ---
 
+### Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
 ## 📌 What I Do
 
 - 💻 Build responsive and functional web applications  
@@ -61,11 +71,13 @@ I’m constantly learning, improving my skills and turning ideas into real proje
 
 ## 🌱 Currently Learning
 
-- Advanced fullstack development  
-- Backend architecture  
-- Modern JavaScript workflows  
-- Clean code and scalable project structure  
+I'm currently focused on improving my skills in:
 
+- 🛡️ Cybersecurity fundamentals and secure coding
+- 🐍 Python development
+- 🤖 AI Agents and automation workflows
+- ⚙️ Backend logic and scalable fullstack architectures
+- 🧠 Clean code, problem solving and best practices
 ---
 
 ## 🤝 Connect With Me
