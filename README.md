@@ -91,6 +91,4 @@ I’m constantly learning, improving my skills and turning ideas into real proje
 
 ---
 
-<p align="center">
-  <i>"Code is not just about solving problems, it's about building something useful."</i>
-</p>
+
