@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-Python-7C3AED?style=for-the-badge" alt="Agentic AI and Python" />
 </p>
 
-🚀 About Me
+About Me
 I'm a Full Stack Developer focused on building functional, maintainable and secure web applications.
 My main stack includes PHP, Laravel, Livewire, MySQL and JavaScript. I enjoy working across the entire development process, from responsive interfaces to backend logic, databases and API integrations.
 I've completed Aulab training programs in Full Stack Development, Cyber Security and Agentic AI & Python. I'm now combining these interests to explore secure web development, Python-powered workflows and AI-assisted applications.
